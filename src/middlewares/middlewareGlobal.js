@@ -1,0 +1,3 @@
+exports.middlewareGlobal = (req,res) =>{
+    
+}
